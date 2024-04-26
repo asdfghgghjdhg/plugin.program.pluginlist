@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<category label="30000">
+		<setting id="list1" type="addon" label="30001" default="" addontype="xbmc.python.pluginsource" multiselect="true" />
+		<setting id="list2" type="addon" label="30002" default="" addontype="xbmc.python.pluginsource" multiselect="true" />
+		<setting id="list3" type="addon" label="30003" default="" addontype="xbmc.python.pluginsource" multiselect="true" />
+		<setting id="list4" type="addon" label="30004" default="" addontype="xbmc.python.pluginsource" multiselect="true" />
+		<setting id="list5" type="addon" label="30005" default="" addontype="xbmc.python.pluginsource" multiselect="true" />
+		<setting id="list6" type="addon" label="30006" default="" addontype="xbmc.python.pluginsource" multiselect="true" />
+		<setting id="list7" type="addon" label="30007" default="" addontype="xbmc.python.pluginsource" multiselect="true" />
+		<setting id="list8" type="addon" label="30008" default="" addontype="xbmc.python.pluginsource" multiselect="true" />
+		<setting id="list9" type="addon" label="30009" default="" addontype="xbmc.python.pluginsource" multiselect="true" />
+	</category>
+</settings>

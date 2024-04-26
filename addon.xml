@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon id="plugin.program.pluginlist" name="Plugin List" version="0.1.1" provider-name="asdfghgghjdhg">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<assets>
+			<icon>resources/media/icon.png</icon>
+			<fanart>resources/media/fanart.jpg</fanart>
+		</assets>
+		<platform>all</platform>
+		<license>GPL-2.0-or-later</license>
+		<summary lang="ru_RU">Список плагинов</summary>
+		<summary lang="en_GB">Plugin List</summary>
+		<description lang="ru_RU">Создание собственных списков плагинов</description>
+		<description lang="en_GB">Create your own plugin list</description>
+		<source>https://github.com/asdfghgghjdhg/plugin.program.pluginlist</source>
+	</extension>
+</addon>
